@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.laboki.eclipse.feature.smartclose_20150513.0.0.jar" id="com.laboki.eclipse.feature.smartclose" version="20150513"/>
+   <feature url="features/com.laboki.eclipse.feature.smartclose_20150514.0.0.jar" id="com.laboki.eclipse.feature.smartclose" version="20150514"/>
 </site>
